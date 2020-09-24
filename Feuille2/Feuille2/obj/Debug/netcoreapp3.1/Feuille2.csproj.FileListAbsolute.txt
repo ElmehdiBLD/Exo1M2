@@ -1,0 +1,13 @@
+C:\Users\nasri\source\repos\Feuille2\Feuille2\bin\Debug\netcoreapp3.1\Feuille2.exe
+C:\Users\nasri\source\repos\Feuille2\Feuille2\bin\Debug\netcoreapp3.1\Feuille2.deps.json
+C:\Users\nasri\source\repos\Feuille2\Feuille2\bin\Debug\netcoreapp3.1\Feuille2.runtimeconfig.json
+C:\Users\nasri\source\repos\Feuille2\Feuille2\bin\Debug\netcoreapp3.1\Feuille2.runtimeconfig.dev.json
+C:\Users\nasri\source\repos\Feuille2\Feuille2\bin\Debug\netcoreapp3.1\Feuille2.dll
+C:\Users\nasri\source\repos\Feuille2\Feuille2\bin\Debug\netcoreapp3.1\Feuille2.pdb
+C:\Users\nasri\source\repos\Feuille2\Feuille2\obj\Debug\netcoreapp3.1\Feuille2.csprojAssemblyReference.cache
+C:\Users\nasri\source\repos\Feuille2\Feuille2\obj\Debug\netcoreapp3.1\Feuille2.AssemblyInfoInputs.cache
+C:\Users\nasri\source\repos\Feuille2\Feuille2\obj\Debug\netcoreapp3.1\Feuille2.AssemblyInfo.cs
+C:\Users\nasri\source\repos\Feuille2\Feuille2\obj\Debug\netcoreapp3.1\Feuille2.csproj.CoreCompileInputs.cache
+C:\Users\nasri\source\repos\Feuille2\Feuille2\obj\Debug\netcoreapp3.1\Feuille2.dll
+C:\Users\nasri\source\repos\Feuille2\Feuille2\obj\Debug\netcoreapp3.1\Feuille2.pdb
+C:\Users\nasri\source\repos\Feuille2\Feuille2\obj\Debug\netcoreapp3.1\Feuille2.genruntimeconfig.cache

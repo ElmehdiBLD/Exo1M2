@@ -1,0 +1,13 @@
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\bin\Debug\netcoreapp3.1\tableauSociete.exe
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\bin\Debug\netcoreapp3.1\tableauSociete.deps.json
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\bin\Debug\netcoreapp3.1\tableauSociete.runtimeconfig.json
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\bin\Debug\netcoreapp3.1\tableauSociete.runtimeconfig.dev.json
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\bin\Debug\netcoreapp3.1\tableauSociete.dll
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\bin\Debug\netcoreapp3.1\tableauSociete.pdb
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\obj\Debug\netcoreapp3.1\tableauSociete.csprojAssemblyReference.cache
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\obj\Debug\netcoreapp3.1\tableauSociete.AssemblyInfoInputs.cache
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\obj\Debug\netcoreapp3.1\tableauSociete.AssemblyInfo.cs
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\obj\Debug\netcoreapp3.1\tableauSociete.csproj.CoreCompileInputs.cache
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\obj\Debug\netcoreapp3.1\tableauSociete.dll
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\obj\Debug\netcoreapp3.1\tableauSociete.pdb
+C:\Users\nasri\source\repos\Feuille2\tableauSociete\obj\Debug\netcoreapp3.1\tableauSociete.genruntimeconfig.cache
